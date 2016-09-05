@@ -12,13 +12,15 @@ Asynchronous한 방법이 필요한데 이를 위해 필요한 문법이 복잡�
 그래서 Promises를 도입해 편하게 쓰고자 하는 것 같다. 
 
 ```javascript
-getPollBack(function(resolve, reject){
+function getPollBackFromServer(pollName){
+	return new Promise(function(resolve, reject){
 	//if it's okay 
 	resolve();
 
 	//if it get an error
 	reject();
-});
+	});
+};
 ```
 
 이런 느낌이라고 볼 수 있다. 
