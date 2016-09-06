@@ -21,6 +21,17 @@ function getPollBackFromServer(pollName){
 	reject();
 	});
 };
+
+getPollBackFromServer("Something")
+	.then(function(results){	//if the state of promise is fulfilled
+		return results.filter((result) => result.city == "Orlando");
+	})
+	.then(function(resultsFromOrlando){	//the arguement is result of first then
+		ui.renderSidebar(resultsFromOrlando);
+	})
+	.catch(function(error){	//if it in rejected state
+		console.log("Error: ", error);
+	})
 ```
 
 이런 느낌이라고 볼 수 있다. 
