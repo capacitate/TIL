@@ -42,11 +42,11 @@ class CommentBox extends React.Component {...
 ```
 
 state를 변경하는 UI 이벤트 들로는 
-	* Button Clicks
-	* Link Clicks
-	* Form Submissions
-	* AJAX requests
-	* and more UI changes 
+* Button Clicks
+* Link Clicks
+* Form Submissions
+* AJAX requests
+* and more UI changes 
 
 toggle example
 
