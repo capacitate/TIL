@@ -6,6 +6,6 @@ code를 모두 써가면서 따라가기엔 많은 분량이라 code는 생략�
 
 여기서 알 수 있었던 것은 
 
-*Parent components can send data to child components using props.
+* Parent components can send data to child components using props.
 
-*Child components can accept callback functions as props to communicate back with parent components.
+* Child components can accept callback functions as props to communicate back with parent components.
