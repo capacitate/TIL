@@ -1,23 +1,23 @@
 #HTML and CSS
 
-<h1> tag for page title/company name
+'<h1>' tag for page title/company name
 
-<h2> page main subject
+'<h2>' page main subject
 
-<h3> ~ <h6> less important 
+'<h3>' ~ '<h6>' less important 
 
-<p> paragraph
+'<p>' paragraph
 
-<ul> unordered list
+'<ul>' unordered list
 
-<li> list items
+'<li>' list items
 
-<ol> ordered list
+'<ol>' ordered list
 
 nesting tag - structured by parents and childs
 
-<head> <- CSS and js
+'<head>' <- CSS and js
 
-<html>
+'<html>'
 
-<!DOCTYPE html>
+'<!DOCTYPE html>'
