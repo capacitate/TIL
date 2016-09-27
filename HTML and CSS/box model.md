@@ -2,11 +2,11 @@
 
 HTML에선 2가지 종류의 tag가 존재하는데, 
 
-1. block-level tags 
+##block-level tags 
 
 p, h1, h2, ul, ol
 
-2. inline-level tags
+##inline-level tags
 
 a, img, input, label
 
