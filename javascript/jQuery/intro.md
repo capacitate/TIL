@@ -27,3 +27,6 @@ jQuery(document).ready(function(){
 });
 ```
 
+jQuery 가 아니라 front-end를 다보고 와야 할 것 같다. 
+
+그리고 프로젝트를 정하고 그 프로젝트에 도움되는 식의 project-driven 사이트가 있으면 정말 좋을 것 같다. 
