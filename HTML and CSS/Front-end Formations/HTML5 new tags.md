@@ -15,3 +15,17 @@ HTML5에서 새롭게 추가된 태그들은
 * aside: expansion
 
 * nav: a section with navigation links
+
+* article: independently distributable or reusable, another type of section 
+
+* main: no more than one
+
+* figure 
+```html
+<figure>
+	<img src="image.jpg" alt="My Picture"/>
+	<figcaption>This is a caption for the picture.</figcaption>
+</figure>
+```
+
+* time: datetime attribute can designate format of date
