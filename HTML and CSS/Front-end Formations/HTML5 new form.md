@@ -4,7 +4,7 @@ form에서도 문법상 clear와 문서 안에 의미를 더 담기 위한 변�
 
 'input' tag의 type attribute로 search/email/url/date/tel/number/range가 
 
-들어갈 수 있게 되었고, 만약 browser가 지원하지 않는다면 default로 text type이 된다. 
+들어갈 수 있게 되었고, 만약 browser가 지원하지 않는다면 default로 *text* type이 된다. 
 
 'datalist' tag가 생겨 'input' tag의 text attribute를 지원해준다. 
 
